@@ -1,2 +1,3 @@
 # Movie-Rating-and-Review-summarization
 A web application using javascript
+We designed and developed a movie-rating and review-summarization system in a mobile environment. The movie-rating information is based on the sentiment-classification result. The condensed descriptions of movie reviews are generated from the feature-based summarization. We proposed a novel approach based on latent semantic analysis (LSA) to identify product features. Furthermore, we found a way to reduce the size of summary based on the product features obtained from LSA. We considered both sentiment-classification accuracy and system response time to design the system. The rating and review-summarization system can be extended to other product-review domains easily.
